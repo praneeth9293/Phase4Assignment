@@ -1,0 +1,8 @@
+.conainer {
+    width: 100%;
+    height: calc(100% - 53px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+}
